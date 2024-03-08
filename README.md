@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliothman210.
 - 👀 I’m interested in Embedded system and programing.
-- 🌱 I’m currently learning basics of embedded system on AVR microcontroller.
+- 🌱 I’ve completed my first diploma in embedded system on AVR microcontroller and earned my first cirtificate in the field.
 - 💞️ I’m looking to collaborate on helping others to learn about what I've learend and share it with me.
 - 📫 How to reach me (You can contact me on my e-mail: "aliabdsalam2003@gmail.com").
   
