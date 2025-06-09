@@ -37,7 +37,7 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 ali.abdelsalam.othman@gmail.com  
+- 📧 aliabdelsalam710@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-abdelsalam/)  
 - 🌐 [My Portfolio (Coming Soon...)](#)
 
@@ -45,7 +45,8 @@
 
 ### 🌱 Currently Learning
 
-- Advanced ML techniques & Deep Learning  
+- Advanced ML techniques & Deep Learning
+- Computer vision and image processing 
 - Video production & content marketing strategies  
 - Building a personal brand on social media as a freelancer  
 
